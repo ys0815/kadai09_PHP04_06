@@ -13,16 +13,13 @@
 ## ④ アプリのログイン用 ID または Password（ある場合）
 
 - 一貫会員 1
-- ID: yuuka
-- PW: yuuka
+- ID: yuuka / PW: yuuka
 
 - 一般 2
-- ID: yuuka2
-- PW: yuuka2
+- ID: yuuka2 / PW: yuuka2
 
 - 管理者
-- ID: seki
-- PW: seki
+- ID: seki / PW: seki
 
 ## ⑤ 工夫した点・こだわった点
 
