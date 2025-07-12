@@ -191,7 +191,7 @@ if (!isset($_GET['query'])) {
                             <?php else: // ログインしていない場合 
                             ?>
                                 <div class="login-prompt">
-                                    ※ブックマークするには<a href="login.php?redirect=<?= urlencode($_SERVER['REQUEST_URI']) ?>">ログイン</a>が必要です。
+                                    ※レビューを書くには<a href="login.php?redirect=<?= urlencode($_SERVER['REQUEST_URI']) ?>">ログイン</a>が必要です。
                                 </div>
                             <?php endif; ?>
                         </li>
