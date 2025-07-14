@@ -15,7 +15,7 @@
 - 一般会員 1
 - ID: yuuka / PW: yuuka
 
-- 一般 2
+- 一般会員 2
 - ID: yuuka2 / PW: yuuka2
 
 - 管理者
